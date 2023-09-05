@@ -1,0 +1,6 @@
+com\sample\microservice\awsdynamodb\configuration\AwsConfig.class
+com\sample\microservice\awsdynamodb\exception\DataNotFoundException.class
+com\sample\microservice\awsdynamodb\domain\Assessment$AssessmentBuilder.class
+com\sample\microservice\awsdynamodb\AwsDynamodbApplication.class
+com\sample\microservice\awsdynamodb\domain\Team$TeamBuilder.class
+com\sample\microservice\awsdynamodb\configuration\DynamoDbConfig.class

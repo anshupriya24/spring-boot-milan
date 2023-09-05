@@ -1,0 +1,9 @@
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\web\EmployeeController.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\service\EmployeeService.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\configuration\AwsConfig.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\exception\DataNotFoundException.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\repository\EmployeeRepository.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\service\EmployeeServiceImpl.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\AwsDynamodbApplication.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\configuration\DynamoDbConfig.java
+E:\Spring\POC\spring-boot-aws-dynamodb-main\src\main\java\com\sample\microservice\awsdynamodb\domain\Employee.java
